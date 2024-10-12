@@ -3,7 +3,7 @@ import React from "react";
 interface Props {}
 
 const Page: React.FC<Props> = ({}) => {
-  return <div>Page</div>;
+  return <div>second</div>;
 };
 
 export default Page;
